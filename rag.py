@@ -250,7 +250,7 @@ Your response:"""
         try:
             contents = [types.Content(role="user", parts=[types.Part(text=full_prompt)])]
             response = client.models.generate_content(
-                model="gemini-2.0-flash",
+                model="gemini-3.1-flash-lite-preview",
                 contents=contents
             )
             

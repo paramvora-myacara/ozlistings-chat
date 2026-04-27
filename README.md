@@ -1,6 +1,6 @@
 # Ozlistings Chat
 
-AI-powered chat application for Opportunity Zone investments. FastAPI backend with Google Gemini AI.
+AI-powered chat application for Opportunity Zone investments. FastAPI backend with Google Gemini AI (Gemini 3.1 Flash-Lite Preview).
 
 ## Quick Start
 
